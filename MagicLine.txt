@@ -1,0 +1,16 @@
+0)		Close SDR# if is running.
+
+1)		Please add the Plugin executable:
+					SDRSharp.MagicEye.dll
+		into your SDR# folder
+		
+2)		Edit with a text editor like notepad or notepad++ the file:
+					Plugins.xml
+		inside your SDR# folder, add the following MagicLine text:
+			<add key="MagicEye" value="SDRSharp.MagicEye.MagicEyePlugin,SDRSharp.MagicEye"/>
+		be careful to use the same exact syntax of the layout and other MAgic Lines already present.
+		Save the file.
+		
+3)		Run now SDR# and scroll the plugin list to the left of the SDRSharp GUI.
+
+Enjoy.
