@@ -1,5 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/MagicEyePlugin.zip/total.svg)]()
-
 # SDRSharp-Magic-Eye-Plugin
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" to SDR# software (www.airspy.com).
