@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/total.svg)]()
 
 # SDRSharp-Magic-Eye-Plugin
 
