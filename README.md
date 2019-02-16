@@ -1,4 +1,4 @@
-# SDRSharp-Magic-Eye-Plugin
+# SDRSharp Magic-Eye Plugin
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" to SDR# software (www.airspy.com).
 Please follow the instructions in the text file MagicLine.txt
