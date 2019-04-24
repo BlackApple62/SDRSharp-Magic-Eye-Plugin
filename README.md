@@ -1,4 +1,5 @@
 # Latest version: 1.3 
+[![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/1.4/total.svg)]()
 
 [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/1.3/total.svg)]()
 
