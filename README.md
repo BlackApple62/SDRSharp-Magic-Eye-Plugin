@@ -2,12 +2,13 @@
   
 # SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
 
-The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" to SDR# software (www.airspy.com). Please follow the instructions in the text file MagicLine.txt It is compiled as 32bit platform, with .NET Framework version 4.6. Will not run on SDR# versions older than r1362 (14 Sept 2015)
+The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" to SDR# software (www.airspy.com).<br>Please follow the instructions in the text file MagicLine.txt<br>
+This Plugin, is compiled as 32bit platform, with .NET Framework version 4.6.<br>Will probably not run on SDR# versions older than r1362 (14 Sept 2015)
 
 Releases downloads: https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases
 
-This plugin is donated for *free* to the huge SDR# users community.
-I assume no responsibility for any problems the use of this plugin may cause.
+This plugin is donated for *free* to the huge SDR# users community.<br>
+I assume no responsibility for any problems the use of this plugin may cause.<br>
 However, You are invited for constructive comments and suggestions.
 
 For comments: https://twitter.com/BlackApple62
