@@ -9,7 +9,6 @@ This Plugin, is compiled for 32bit platform, with .NET Framework version 4.6.<br
 Releases downloads: https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases
 
 This plugin is donated for *free* to the huge SDR# users community.<br>
-I assume no responsibility for any problems the use of this plugin may cause.<br>
 
 For comments: https://twitter.com/BlackApple62
 
