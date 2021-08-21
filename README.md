@@ -1,4 +1,4 @@
-# Latest version: 1.60 - 30 January 2021 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/1.60/total.svg)]()
+# Latest version: 1.70 - 21 August 2021 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/1.70/total.svg)]()
   
 # SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
 
@@ -9,7 +9,7 @@ As of version 1.60, this plugin is compatible with the new SDR# Studio version 1
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/1.60/MagicEyePlugin-1.60.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/1.70/MagicEyePlugin-1.70.zip_**
 
 This plugin is donated for *free* to the huge SDR# users community.<br>
 
