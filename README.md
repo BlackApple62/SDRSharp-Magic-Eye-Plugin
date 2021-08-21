@@ -7,6 +7,8 @@ An analog-style SNR Meter has also been implemented.<br><br>
 This Plugin is compiled for SDR# 32bit, with .NET Framework version 4.6, will probably not run on SDR# versions older than r1362 (14 Sept 2015).
 As of version 1.60, this plugin is compatible with the new SDR# Studio version 1785, based on .NET 5.x.
 
+Version 1.70 has important bugfixes - Strongly suggest to upgrade.
+
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases_**
 
 **Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/1.70/MagicEyePlugin-1.70.zip_**
