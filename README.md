@@ -1,17 +1,14 @@
-# Latest version: 1.70 - 21 August 2021 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/1.70/total.svg)]()
+# Latest version: 2.0 - 18 August 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.0/total.svg)]()
   
 # SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" gadget to SDR# software (www.airspy.com).<br>Please follow the instructions in the text file MagicLine.txt<br>
 An analog-style SNR Meter has also been implemented.<br><br>
-This Plugin is compiled for SDR# 32bit, with .NET Framework version 4.6, will probably not run on SDR# versions older than r1362 (14 Sept 2015).
-As of version 1.60, this plugin is compatible with the new SDR# Studio version 1785, based on .NET 5.x.
-
-Version 1.70 has important bugfixes - Strongly suggest to upgrade.
+This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832)
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/1.70/MagicEyePlugin-1.70.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.0/SDRSharp.Plugin.MagicEye.zip_**
 
 This plugin is donated for *free* to the huge SDR# users community.<br>
 
