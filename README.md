@@ -1,4 +1,4 @@
-# Latest version: 2.0 - 18 August 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.0/total.svg)]()
+# Latest version: 2.0 - 18 September 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.0/total.svg)]()
   
 # SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
 
