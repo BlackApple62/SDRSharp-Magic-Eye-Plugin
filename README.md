@@ -1,4 +1,4 @@
-# Latest version: 2.0 - 18 September 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.0/total.svg)]()
+# Latest version: 2.2 - 9 October 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.2/total.svg)]()
   
 # SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
 
@@ -10,7 +10,7 @@ This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.0/SDRSharp.Plugin.MagicEye.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.2/SDRSharp.Plugin.MagicEye.zip_**
 
 This plugin is donated for *free* to the huge SDR# users community.<br>
 
@@ -19,5 +19,5 @@ For comments: https://twitter.com/BlackApple62
 A beautiful internet source on "Magic Eyes" (credits to Howard in Randolph, Massachusetts): http://www.magiceyetubes.com/
 
 Enjoy!
-![MagicEye 2 0](https://user-images.githubusercontent.com/47506878/191375531-f7af52ea-a6fc-4242-b764-83e903f9d18c.png)
+![MagicEye 2 2 - TW](https://user-images.githubusercontent.com/47506878/194741405-bcd339cc-643f-4750-984e-819debb6114c.png)
 
