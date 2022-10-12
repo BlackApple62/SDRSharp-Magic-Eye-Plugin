@@ -19,5 +19,5 @@ For comments: https://twitter.com/BlackApple62
 A beautiful internet source on "Magic Eyes" (credits to Howard in Randolph, Massachusetts): http://www.magiceyetubes.com/
 
 Enjoy!
-![MagicEye 2 2 - TW](https://user-images.githubusercontent.com/47506878/194741405-bcd339cc-643f-4750-984e-819debb6114c.png)
+![MagicEye 2 2 - GITHUB](https://user-images.githubusercontent.com/47506878/195413507-faa9ff9d-91e0-4f6f-b38b-211382417aa7.png)
 
