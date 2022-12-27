@@ -3,7 +3,7 @@
 # SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" gadget to SDR# software (www.airspy.com).
-This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832) and .NET 7 (SDR# Studio release >= 1903)
+This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832) and .NET 7 (SDR# Studio release >= 1902)
 <br>An analog-style SNR Meter has also been implemented.<br><br>**Setup:** just unzip the file SDRSharp.and copy the SDRSharp.MagicEye.dll file into the SDR# Studio Plugin folder.<br><br>
 
 
