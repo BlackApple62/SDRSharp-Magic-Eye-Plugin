@@ -12,6 +12,12 @@ This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832
 <br>**2.** Copy the SDRSharp.MagicEye.dll file into the SDR# Studio "Plugins" default folder
 <br>**3.** Alternate, should you prefer, create your own folder inside the default "Plugins" and copy there the SDRSharp.MagicEye.dll instead.
 
+**Update to a new version:**
+<br>**1.** Close SDR#.
+<br>**2.** Unzip the new zip file SDRSharp.Plugin.MagicEye.zip
+<br>**3.** Replace your old the SDRSharp.MagicEye.dll file with the new one.
+<br>>SDRSharp will load the new version plugin at next execution.
+
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases_**
 
 **Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.3/SDRSharp.Plugin.MagicEye.zip_**
