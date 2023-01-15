@@ -1,7 +1,7 @@
-# Latest version: 2.3 - 27 Dec 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.3/total.svg)]()
+# Latest version: 2.3 - 27 Dec 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.3/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.3/SDRSharp.Plugin.MagicEye.zip)
   
-# SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)]()
-# Previous version, .NET6 [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.2/total.svg)]()
+# SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.3/SDRSharp.Plugin.MagicEye.zip)
+# Previous version, .NET6 [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.2/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.2/SDRSharp.Plugin.MagicEye.zip)
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" gadget to SDR# software (www.airspy.com).
 This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832) and .NET 7 (SDR# Studio release >= 1902)
