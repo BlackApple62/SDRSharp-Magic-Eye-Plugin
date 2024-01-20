@@ -1,3 +1,8 @@
+
+# SDRSharp-Magic-Eye-Plugin ![(buona - github)ezgif com-resize](https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/assets/47506878/5f19762c-b051-4f99-a315-82be3eda8da5)
+
+<br>
+
 # Latest version: 2.5 - 20 Jan 2024 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.5/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.5/SDRSharp.Plugin.MagicEye.zip)
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" gadget to SDR# software (www.airspy.com).
