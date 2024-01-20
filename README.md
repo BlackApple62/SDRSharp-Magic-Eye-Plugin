@@ -1,10 +1,7 @@
-# Latest version: 2.3 - 27 Dec 2022 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.3/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.3/SDRSharp.Plugin.MagicEye.zip)
-  
-# SDRSharp Magic-Eye Plugin [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.3/SDRSharp.Plugin.MagicEye.zip)
-# Previous version, .NET6 [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.2/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.2/SDRSharp.Plugin.MagicEye.zip)
+# Latest version: 2.5 - 20 Jan 2024 - [![Github Downloads (total)](https://img.shields.io/github/downloads/BlackApple62/SDRSharp-Magic-Eye-Plugin/2.5/total.svg)](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.5/SDRSharp.Plugin.MagicEye.zip)
 
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" gadget to SDR# software (www.airspy.com).
-This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832) and .NET 7 (SDR# Studio release >= 1902)
+This Plugin is compiled for SDR# 32bit, with .NET 7 (SDR# Studio release >= 1902)
 <br>An analog-style SNR Meter has also been implemented.<br><br>
 
 **Setup:**
@@ -21,7 +18,7 @@ This Plugin is compiled for SDR# 32bit, with .NET 6 (SDR# Studio release >= 1832
 
 **Release note/changelog : _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases_**
 
-**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.3/SDRSharp.Plugin.MagicEye.zip_**
+**Plugin download (zip file): _https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/releases/download/2.5/SDRSharp.Plugin.MagicEye.zip_**
 
 This plugin is donated for *free* to the huge SDR# users community.<br>
 
