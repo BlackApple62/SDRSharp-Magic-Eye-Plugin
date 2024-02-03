@@ -1,5 +1,5 @@
 
-# SDRSharp-Magic-Eye-Plugin ![(buona - github)ezgif com-resize](https://github.com/BlackApple62/SDRSharp-Audio-Equalizer-Plugin/assets/47506878/5f19762c-b051-4f99-a315-82be3eda8da5)
+# SDRSharp-Magic-Eye-Plugin
 
 <br>
 
