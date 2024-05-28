@@ -1,5 +1,5 @@
 
-# SDRSharp-Magic-Eye-Plugin![ezgif com-resize](https://github.com/BlackApple62/SDRSharp-Magic-Eye-Plugin/assets/47506878/84ef31fd-6c19-4963-a621-995013ced104)
+# SDRSharp-Magic-Eye-Plugin
 
 
 <br>
