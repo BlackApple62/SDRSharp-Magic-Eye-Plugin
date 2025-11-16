@@ -9,7 +9,7 @@
 The files in this zip archive will add an old-style "Magic Eye", or else "Cat's Eye" gadget to SDR# software (www.airspy.com).
 <br>An analog-style SNR Meter has also been implemented.<br>
 <br>This Plugin is compiled for SDR# 32bit, with .NET 8 (SDR# Studio release >= 1920)
-<br>It works fine on latest SDR# v.1922 .NET 9 beta releases both on 32 bit and 64 bit.
+<br>It works fine on latest SDR# v.1922 .NET 9 and newest .NET 10 beta releases both on 32 bit and 64 bit.
 
 
 **Setup:**
